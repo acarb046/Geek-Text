@@ -21,19 +21,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-class CommentCreateAPIView:
-    pass
-
-
-class RatingCreateAPIView:
-    pass
-
-
-class CommentListAPIView:
-    pass
-
-
-class AverageRatingAPIView:
-    pass
